@@ -8,7 +8,7 @@
 - Model type: PyTorch Yolo v8
 
 ## TR-Coin-OD-v2 [ WIP ]
-Planned Release: 29 Aug 2023
+> Planned Release: 29 Aug 2023
 
 - trained with 500 images in variable conditions. (differentiating background, harsh lighting, decoy coins of different currency)
 - Model type: PyTorch Yolo v8

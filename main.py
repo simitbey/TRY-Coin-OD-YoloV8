@@ -1,6 +1,6 @@
 from ultralytics import YOLO
 
-model = YOLO("best.pt")
+model = YOLO("TR-Coin-OD-v1.pt")
 results = model.predict(source="input_image.jpg", save=True, show=True)
 result = results[0]
 box = result.boxes[0]

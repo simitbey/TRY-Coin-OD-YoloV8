@@ -10,13 +10,13 @@ This project is as a proof-of-concept for an Object detection project. As a star
 ```bash
 !pip install ultralytics
 ```
-then add the `main.py` as a code, upload the dataset to `/content` and also the specified image with the name `input_image.jpg`.
+then add the `main.py` as a code, upload the model of your choice to `/content` and also the specified image with the name `input_image.jpg`.
 
 ### Local Machine
 ```
 pip install ultralytics
 ```
-then add the `main.py` and model file in the directory. upload the specified image with the name `input_image.jpg`. Run the code.
+then add the `main.py` and the model of your choice in the directory. upload the specified image with the name `input_image.jpg`. Run the code.
 
 
 ## Roadmap

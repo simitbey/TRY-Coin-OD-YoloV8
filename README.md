@@ -19,11 +19,6 @@ pip install ultralytics
 then add the `main.py` and the model of your choice in the directory. upload the specified image with the name `input_image.jpg`. Run the code.
 
 
-## Roadmap
-
-- New model with 500+ images trained as a dataset.
-
-- A mobile app written with `js`.
 
 
 ## Screenshots
@@ -31,6 +26,13 @@ then add the `main.py` and the model of your choice in the directory. upload the
 Example was tested on Google Colab with the `TR-Coin-OD-v1` model.
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/934317532276486255/1145639917259587695/image.png)
+
+## Roadmap
+
+- New v2 model with 500+ images trained as a dataset.
+
+- A mobile app written with `js`.
+
 
 ## License
 

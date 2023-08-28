@@ -1,7 +1,7 @@
 
 # Object Detection - TRY Coins Model and Script
 
-This project is as a proof-of-concept for an Object detection project. As a starting point, I used generic turkish coins with a model consisting of 80 images. 
+This project is as a proof-of-concept for an Object detection project. As a starting point, I used generic turkish coins with a model consisting of 80 images. More information of models on /models/models.md
 
 
 

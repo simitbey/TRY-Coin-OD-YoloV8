@@ -28,7 +28,7 @@ then add the `main.py` and the model of your choice in the directory. upload the
 
 ## Screenshots
 
-Example was tested on Google Colab.
+Example was tested on Google Colab with the `TR-Coin-OD-v1` model.
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/934317532276486255/1145639917259587695/image.png)
 

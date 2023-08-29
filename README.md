@@ -7,12 +7,14 @@ This project is as a proof-of-concept for an Object detection project. As a star
 
 ## Deployment
 ### Google Colab
+firstly, run
 ```bash
 !pip install ultralytics
 ```
 then add the `main.py` as a code, upload the model of your choice to `/content` and also the specified image with the name `input_image.jpg`.
 
 ### Local Machine
+firstly, run
 ```
 pip install ultralytics
 ```

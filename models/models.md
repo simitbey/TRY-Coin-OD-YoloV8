@@ -2,7 +2,7 @@
 # Model Types
 
 ## TR-Coin-OD-v2 [ Current Model ]
-> Released: 29 Aug 2023
+> Released on: 29 Aug 2023
 
 - trained with 300 images in variable conditions. (differentiating background, harsh lighting, decoy coins of different currency)
 - Model type: PyTorch Yolo v8
